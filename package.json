@@ -1,0 +1,21 @@
+{
+  "name": "nodefirebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "fastify": "^2.1.0",
+    "fastify-formbody": "^3.1.0",
+    "firebase": "^5.9.0"
+  },
+  "devDependencies": {
+    "ava": "^1.3.1",
+    "supertest": "^4.0.2"
+  }
+}
